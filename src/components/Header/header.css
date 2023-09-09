@@ -1,0 +1,20 @@
+header{
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header h1{
+    font-size: 1.9em;
+    font-weight: 500;
+}
+header button{
+    background: transparent;
+    text-transform: uppercase;
+    font-size: 0.85em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}

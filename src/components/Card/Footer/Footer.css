@@ -1,0 +1,27 @@
+.card-footer{
+    width: 100%;
+    margin-top: 24px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 32px;
+}
+.card-footer section{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.footer-item{
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.footer-item span{
+    width: 100%;
+    max-width: 320px;
+    font-size: 1.2em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
