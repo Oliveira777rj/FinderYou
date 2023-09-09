@@ -8,7 +8,7 @@ const Header = () => {
 
   return (
     <header>
-        <h1>YouFinder</h1>
+        <h1>FinderYou</h1>
 
         <button onClick={toggleTheme}>
             <span>
